@@ -1,6 +1,8 @@
 <#
 .SYNOPSIS
 Windows enumeration script borrowed from https://github.com/411Hall/JAWS
+I only added two lines to check for PowerShell language mode and Applocker policy.
+
 .DESCRIPTION
 This script is designed to be used in a penetration test or CTF
 enviroment. It will enumerate useful information from the host
