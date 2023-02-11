@@ -1,4 +1,4 @@
-﻿# Description: finds keywords in MS Word files (.doc and .docs)
+# Description: this script finds keywords in MS Word files (.doc and .docs)
 
 # Source:https://stackoverflow.com/questions/58322328/powershell-find-ms-word-files-through-keywords
 
