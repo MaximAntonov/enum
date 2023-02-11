@@ -1,4 +1,6 @@
-﻿#Source:https://www.heelpbook.net/2020/searching-through-files-for-matching-text-strings-powershell/
+# Description: this script finds keywords in MS Excel (* .xlsx and *.xls) files
+
+# Source:https://www.heelpbook.net/2020/searching-through-files-for-matching-text-strings-powershell/
 
 # Usage:
 # Import-Module .\excelpass.ps1
